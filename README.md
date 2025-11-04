@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm <span style="color:#58a6ff;">Habiba</span>👋</h1>
+  <h1>👋 Hello, I'm <span style="color:#58a6ff;">Habiba</span></h1>
   <h3>🌷 Frontend Developer | Passionate about Design & Coding ✨</h3>
 </div>
 

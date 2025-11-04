@@ -1,3 +1,18 @@
+<div align="center">
+  <h1>👋 Hello, I'm <span style="color:#58a6ff;">Habiba</span></h1>
+  <h3>🌷 Frontend Developer | Passionate about Design & Coding ✨</h3>
+</div>
+
+---
+
+### 💫 About Me  
+I’m <strong>Habiba</strong>, a beginner developer who loves learning and creating modern, beautiful projects.  
+🌱 Currently learning: <strong>JavaScript</strong>, <strong>Web development</strong>, and <strong>Frontend design</strong>  
+☕ I enjoy coding while drinking coffee and exploring creative ideas ✨  
+💻 My goal: Keep growing as a developer every single day 🌸
+
+
+
 # Hello there 👋
 
 I’m *Habiba*, a beginner web developer 💻  

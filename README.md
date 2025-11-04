@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**Habiba678/Habiba678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m *Habiba*, a beginner web developer 💻  
+I love learning new things and building creative projects using *HTML, CSS, and JavaScript*.
 
-Here are some ideas to get you started:
+🌱 *Currently learning:*  
+•⁠  ⁠Web development  
+•⁠  ⁠JavaScript  
+•⁠  ⁠Frontend design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ *What I enjoy:*  
+•⁠  ⁠Coding while drinking coffee  
+•⁠  ⁠Exploring new ideas and improving my skills  
+•⁠  ⁠Creating meaningful and beautiful projects ✨  
+
+📂 *Some of my projects:*  
+•⁠  ⁠[QuizApp](https://github.com/Habiba678/QuizApp)  
+•⁠  ⁠[Fotogram2](https://github.com/Habiba678/Fotogram2)  
+
+💫 “Small steps every day lead to big progress.”

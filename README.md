@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I’m *Habiba*, a  web developer 💻  
+I’m *Habiba*, a fronted developer 💻  
 I love learning new things and building creative projects using *HTML, CSS, and JavaScript*.
 
 🌱 *Currently learning:*  

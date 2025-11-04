@@ -6,7 +6,7 @@
 ---
 
 ### 💫 About Me  
-I’m <strong>Habiba</strong>, a beginner developer who loves learning and creating modern, beautiful projects.  
+I’m <strong>Habiba</strong>, a frontend developer who loves learning and creating modern, beautiful projects.  
 🌱 Currently learning: <strong>JavaScript</strong>, <strong>Web development</strong>, and <strong>Frontend design</strong>  
 ☕ I enjoy coding while drinking coffee and exploring creative ideas ✨  
 💻 My goal: Keep growing as a developer every single day 🌸

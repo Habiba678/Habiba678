@@ -15,7 +15,7 @@ I’m <strong>Habiba</strong>, a frontend developer who loves learning and creat
 
 # Hello there 👋
 
-I’m *Habiba*, a beginner web developer 💻  
+I’m *Habiba*, a  web developer 💻  
 I love learning new things and building creative projects using *HTML, CSS, and JavaScript*.
 
 🌱 *Currently learning:*  
